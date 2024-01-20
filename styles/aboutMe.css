@@ -100,10 +100,10 @@
     border-bottom: solid black 0.5px;
 }
 @media (max-width: 800px) {
-    .sobreMi__presentation{
+    .sobreMi__presentation {
         flex-direction: column;
     }
-    .sobreMi__imagen{
+    .sobreMi__imagen {
         width: 400px;
     }
 }
